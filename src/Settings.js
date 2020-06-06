@@ -1,0 +1,1 @@
+export default "https://www.salandt.dk/MysteryGames/api/mystery";
